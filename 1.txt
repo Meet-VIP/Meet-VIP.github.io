@@ -1,0 +1,469 @@
+# pèi zhì dì zhǐ  jiǎn yì shè dìng liú chéng 
+// wǒ de  --> shè zhì  -->  pèi zhì dì zhǐ  --> qǐng shū rù  https://gitea.com/dq8888/TVBox/raw/branch/main/snadds.json--> què dìng 
+
+
+
+{
+## spider
+//"spider":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/XBiubiuLA3.jar",
+"spider":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/XBiubiuLA4.jar",
+//"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+"wallpaper": "https://api.ixiaowai.cn/gqapi/gqapi.php",
+//"wallpaper": "https://gitea.com/dq8888/snad/raw/branch/root/TuPian/snj1.jpg",
+
+
+
+# zhí bō 
+"lives": [
+{"group": "redirect","channels": [{
+"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vZHE4ODg4L1RWQm94L3Jhdy9icmFuY2gvbWFpbi90di50eHQ="]}
+]}
+],
+
+"sites":[
+
+#SP   xià liè wǎng zhàn fǎn yīng sù dù jiào kuài ★★★
+{"key":"csp_LiteApple","name":"🍎xiǎo píng guǒ (SP)®shén nóng dài yě 💎","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"👒qī qī (SP)®shén nóng dài yě 💎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"💢360(SP)®shén nóng dài yě 💎","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/custom_spider0701.jar"},
+{"key": "csp_Xxys","name": "🐻xiǎo xióng (SP)®shén nóng dài yě 💎","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0720.jar"},
+{"key":"csp_Kuaikan","name":"👀kuài kàn (SP)®shén nóng dài yě 💎","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0720.jar"},
+{"key":"csp_Zxzj","name":"💒zài xiàn zhī jiā (SP)®shén nóng dài yě 💎","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "KanSJ_spider","name": "👓kàn shì jiè (SP)®shén nóng dài yě 💎","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/ksj.jar"},
+{"key": "9E03", "name": "👸9Eguó yǔ (SP)®shén nóng dài yě 💎", "type":3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/9E03.jar"},
+{"key": "csp_QQ","name":"🐧téng xùn shì pín ®shén nóng dài yě 💎","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0804.jar"},
+{"key": "ài qí yì ","name":"🍦ài qí yì ®shén nóng dài yě 💎","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0804.jar"},
+{"key": "csp_MGTV","name":"🍊máng guǒ TV®shén nóng dài yě 💎","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0804.jar"},
+{"key": "youku","name": "📺yōu kù ®shén nóng dài yě 💎","type": 0,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0,"categories": ["zōng yì ",
+"dòng màn ","dòng zuò piàn ","xǐ jù piàn ","ài qíng piàn ","kē huàn piàn ","kǒng bù piàn ","jù qíng piàn ","zhàn zhēng piàn ","guó chǎn jù ","gǎng tái jù ","rì hán jù ","ōu měi jù ","jīng sǒng piàn ","fàn zuì piàn ","mào xiǎn piàn ","xuán yí piàn ","dòng huà piàn ","wǔ xiá piàn ","qí huàn piàn ","shǎo ér ","qí tā piàn "],"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0822.jar"},
+{"key": "PpTV","name": "📺PPTV®shén nóng dài yě 💎","type": 0,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0,"categories": ["zōng yì ","dòng màn ","dòng zuò piàn ","xǐ jù piàn ","ài qíng piàn ","kē huàn piàn ","kǒng bù piàn ","jù qíng piàn ","zhàn zhēng piàn ","guó chǎn jù ","gǎng tái jù ","rì hán jù ","ōu měi jù ","jīng sǒng piàn ","fàn zuì piàn ","mào xiǎn piàn ","xuán yí piàn ","dòng huà piàn ","wǔ xiá piàn ","shǎo ér ","qí tā piàn "],"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0822.jar"},
+{"key":"csp_AppTT","name":"🎨tú tú yǐng shì ®shén nóng dài yě 💎","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0907.jar"},
+{"key": "csp_SP293","name":"🏄293shì pín (SP)®shén nóng dài yě 💎","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0828.jar"},
+{"key":"Libvio","name":"🍒LIBVIO(SP)®shén nóng dài yě 💎","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/box285.jar"},
+{"key": "csp_Jianying","name": "🎈jiǎn yǐn ®shén nóng dài yě 💎","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q","jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0820.jar"},
+{"key":"csp_Bd","name":"🧷bì dī yǐng shì ®shén nóng dài yě 💎","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/bd.jar"},
+
+{"key":"csp_BBB","name": "🈴bili(dòng wù shì jiè ...)®shén nóng dài yě 💎","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/bì lǐ tào cān .json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"MV","name": "🎣gē qǔ MV®shén nóng dài yě 💎","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/mv.json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"csp_Bliyc","name":"🎵yǎn chàng huì ®shén nóng dài yě 💎","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/yǎn chàng huì .json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"yòu ér lè yuán ","name":"🏫yòu ér lè yuán ®shén nóng dài yě 💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/yòu ér lè yuán .json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"shǎo ér jiāo yù ","name":"🏫shǎo ér jiāo yù ®shén nóng dài yě 💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/shǎo ér jiāo yù .json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"xiǎo xué kè táng ","name":"🏫xiǎo xué kè táng ®shén nóng dài yě 💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/xiǎo xué kè táng .json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"chū zhōng kè táng ","name":"🏫chū zhōng kè táng ®shén nóng dài yě 💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/chū zhōng kè táng .json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"gāo zhōng jiāo yù ","name":"🏫gāo zhōng kè táng ®shén nóng dài yě 💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/gāo zhōng kè táng .json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"ér tóng ","name":"🎠ér tóng lè yuán ®shén nóng dài yě 💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/ér tóng lè yuán .json","jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq888.jar"},
+{"key":"xué xí ","name":"📚xué xí yuán dì ®shén nóng dài yě 💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/xué xí yuán dì .json","jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq888.jar"},
+
+
+{"key":"kuài bō yún ","name":"🚀kuài bō yún ®shén nóng dài yě 💎","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["guó chǎn jù ","gǎng tái jù ","rì hán jù ","ōu měi jù ","tài jù ","zōng yì ","dòng màn ","dòng zuò piàn ","xǐ jù piàn ","ài qíng piàn ","kē huàn piàn ","kǒng bù piàn ","jù qíng piàn ","zhàn zhēng piàn ","jì lù piàn "]},
+
+{"key":"csp_biubiu_voflix","name":"👼voflix®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\r\n  \"name\": \"voflix\",\r\n  \"url\": \"https://www.voflix.com/\",\r\n  \"User\": \"kōng \",\r\n  \"shouye\": \"1\",\r\n  \"fenlei\": \"diàn yǐng $/show/1-----------#guó chǎn jù $/show/13-----------#jù jí $/show/2-----------#zōng yì $/show/3-----------#dòng huà $/show/4-----------#ōu měi jù $/show/16-----------#rì hán jù $/show/15-----------\",\r\n  \"houzhui\": \".html\",\r\n  \"shifouercijiequ\": \"1\",\r\n  \"jiequqian\": \"module-page\",\r\n  \"jiequhou\": \"class=\\\"fixedGroup\",\r\n  \"jiequshuzuqian\": \"<a\",\r\n  \"jiequshuzuhou\": \"no-referrer\",\r\n  \"tupianqian\": \"original=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"title=\\\"\",\r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\",\r\n  \"lianjiehou\": \"\\\"\",\r\n  \"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"sousuohouzhui\": \"/detail/\",\r\n  \"ssmoshi\": \"0\",\r\n  \"sousuoshifouercijiequ\": \"0\",\r\n  \"jspic\": \"pic\",\r\n  \"jsname\": \"name\",\r\n  \"jsid\": \"id\",\r\n  \"ssjiequqian\": \"kōng \",\r\n  \"ssjiequhou\": \"kōng \",\r\n  \"ssjiequshuzuqian\": \"kōng \",\r\n  \"ssjiequshuzuhou\": \"kōng \",\r\n  \"sstupianqian\": \"kōng \",\r\n  \"sstupianhou\": \"kōng \",\r\n  \"ssbiaotiqian\": \"kōng \",\r\n  \"ssbiaotihou\": \"kōng \",\r\n  \"sslianjieqian\": \"kōng \",\r\n  \"sslianjiehou\": \"kōng \",\r\n  \"bfshifouercijiequ\": \"0\",\r\n  \"bfjiequqian\": \"kōng \",\r\n  \"bfjiequhou\": \"kōng \",\r\n  \"zhuangtaiqian\": \"gèng xīn ：\",\r\n  \"zhuangtaihou\": \"</div>\",\r\n  \"daoyanqian\": \"dǎo yǎn ：\",\r\n  \"daoyanhou\": \"</div>\",\r\n  \"zhuyanqian\": \"zhǔ yǎn ：\",\r\n  \"zhuyanhou\": \"</div>\",\r\n  \"juqingqian\": \"jiǎn jiè ：\",\r\n  \"juqinghou\": \"/div>\",\r\n  \"bfjiequshuzuqian\": \"class=\\\"module-list\",\r\n  \"bfjiequshuzuhou\": \"</div>\",\r\n  \"bfyshifouercijiequ\": \"0\",\r\n  \"bfyjiequqian\": \"kōng \",\r\n  \"bfyjiequhou\": \"kōng \",\r\n  \"bfyjiequshuzuqian\": \"<a\",\r\n  \"bfyjiequshuzuhou\": \"/a>\",\r\n  \"bfbiaotiqian\": \"<span>\",\r\n  \"bfbiaotihou\": \"</span>\",\r\n  \"bflianjieqian\": \"href=\\\"\",\r\n  \"bflianjiehou\": \"\\\"\"\r\n}\r\n"},
+{"key": "csp_AppYs_miǎo bō ","name": "🌳lǜ sè yǐng shì ®shén nóng dài yě 💎","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},
+{"key":"csp_xpath_kuqimv","name":"🎤kù qí MV(XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/kuqimv.json"},
+//{"key": "csp_Bliyc","name":"🎵yǎn chàng huì ®shén nóng dài yě 💎","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/Bliych.json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq0801.jar"},
+{"key": "csp_Yj1211","name": "️🎑zhí bō hé jí (SP)®shén nóng dài yě 💎","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0822.jar"},
+{"key":"měi shí ","name":"🍜měi shí hé jí ®shén nóng dài yě 💎","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/měi shí hé jí .json","jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq888.jar"},
+{"key": "EXCEL", "name": "📌excelchá xún ®shén nóng dài yě 💎", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/excelchá xún .json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0826.jar"},
+
+{"key": "qiú lèi ","name": "🏀qiú lèi ®shén nóng dài yě 💎","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/qiú jí .json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0826.jar"},
+{"key": "qí pái ", "name": "☕qí pái ®shén nóng dài yě 💎", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/qí .json","jar":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/0826.jar"},
+
+{"key":"hǔ yá ","name":"🐯hǔ yá ®shén nóng dài yě 💎","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/hǔ yá .json","jar": "https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dq888.jar"},
+
+
+#XB   xià liè wǎng zhàn fǎn yīng sù dù jiào kuài ★★★
+{"key":"csp_biubiu_lán guāng yǐng yuàn ","name":"📺lán guāng yǐng yuàn (XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/lán guāng yǐng yuàn .json"},
+{"key":"csp_biubiu_sāo huǒ diàn yǐng ","name":"🔥sāo huǒ diàn yǐng (XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/sāo huǒ diàn yǐng .json"},
+{"key":"csp_biubiu_qí yōu yǐng yuàn （bú zhī chí sōu ）","name":"📺qí yōu yǐng yuàn (XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/qí yōu yǐng yuàn （bú zhī chí sōu ）.json"},
+{"key":"csp_biubiu_chuàng yì yǐng shì ","name":"📺chuàng yì yǐng shì (XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/chuàng yì yǐng shì .json"},
+{"key":"csp_biubiu_yǐng zhā zhā ","name":"📺yǐng zhā zhā (XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/yǐng zhā zhā .json"},
+{"key":"csp_biubiu_niú mǎ TV","name":"🐂niú mǎ TV(XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/niú mǎ TV.json"},
+{"key":"csp_biubiu_4Kdiàn yǐng wǎng ","name":"📺4Kdiàn yǐng wǎng (XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/4Kdiàn yǐng wǎng .json"},
+{"key":"csp_biubiu_ài kàn yǐng shì ","name":"💖ài kàn yǐng shì (XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/ài kàn yǐng shì .json"},
+{"key":"csp_biubiu_jí pǐn yǐng shì ","name":"📺jí pǐn yǐng shì (XB)®shén nóng dài yě ","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/jí pǐn yǐng shì .json"},
+{"key":"csp_biubiu_zài xiàn zhī jiā ","name":"🏠zài xiàn zhī jiā (XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/zài xiàn zhī jiā .json"},
+{"key":"csp_biubiu_LIBVIO","name":"🎦LIBVIO(XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/LIBVIO.json"},
+{"key":"csp_biubiu_yǐng shì gōng chǎng ","name":"🎦yǐng shì gōng chǎng (XB)®shén nóng dài yě 💎","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/yǐng shì gōng chǎng .json"},
+
+
+#XPF   xià liè wǎng zhàn fǎn yīng sù dù jiào kuài ★★★
+{"key":"csp_xpath_libv","name":"📺Libvio(XPF)®shén nóng dài yě 💎","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/libv.json"},
+{"key":"csp_xpath_zxzj2","name":"🖮zài xiàn zhī jiā (XPF)®shén nóng dài yě 💎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/zxzj2.json"},
+{"key":"csp_xpath_ddg","name":"🐢dá dá guī (XPF)®shén nóng dài yě 💎","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/dadagui.json"},
+{"key":"csp_xpath_348z","name":"📺348diàn yǐng (XPF)®shén nóng dài yě 💎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/348z.json"},
+{"key":"csp_xpath_jpys","name":"📺jí pǐn yǐng shì (XPF)®shén nóng dài yě 💎","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/jpys.json"},
+{"key":"csp_xpath_6d","name":"📺liù dù TV(XPF)®shén nóng dài yě 💎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/6d.json"},
+
+
+#XP   xià liè wǎng zhàn fǎn yīng sù dù jiào kuài ★★★
+{"key":"csp_xpath_kuqimv","name":"🎤kù qí MV(XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/kuqimv.json"},
+{"key":"csp_xpath_dm84","name":"📺dòng màn bā shì (XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/dm84.json"},
+{"key":"csp_xpath_17skr","name":"📺lù màn màn dòng màn (XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/17skr.json"},
+{"key":"csp_xpath_bttwoo","name":"📺liǎng gè BT(XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/bttwoo.json"},
+{"key":"csp_xpath_saohuotv","name":"📺sāo huǒ diàn yǐng (XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/saohuotv2.json"},
+{"key":"csp_xpath_135kan","name":"📺135kàn kàn (XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/135kan.json"},
+{"key":"csp_xpath_dianyingn","name":"🐮diàn yǐng niú (XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/dianyingn.json"},
+{"key":"csp_xpath_qdytv","name":"🍚mǐ lái yǐng shì (XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/qdytv.json"},
+{"key":"csp_xpath_dingzidy","name":"📺dìng zǐ diàn yǐng (XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/dingzidy.json"},
+{"key":"csp_xpath_paopaoshipin","name":"📺pào pào shì pín (XP)®shén nóng dài yě 💎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/paopaoshipin.json"},
+
+#luó bo    xià liè wǎng zhàn fǎn yīng sù dù jiào kuài ★★★
+{"key":"csp_appysv2_xiǎo qī yǐng shì ","name":"📺xiǎo qī yǐng shì (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xiaoqi0.cn/cuican_api.php/v1.vod"},
+{"key":"csp_appysv2_yòu chén yún yǐng shì ","name":"📺yòu chén yún yǐng shì (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_wàn néng yǐng yuàn ","name":"🎥wàn néng yǐng yuàn (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_tù zǐ wō ","name":"🐇tù zǐ wō (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_tiān tiān shì pín ","name":"🎥tiān tiān shì pín (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
+{"key":"csp_appysv2_táo jù shè ","name":"🎥táo jù shè (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
+{"key":"csp_appysv2_nuò nuò yǐng shì ","name":"🎥nuò nuò yǐng shì (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nnys.cuicanys.cn/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_māo mī yǐng shì ","name":"🐈māo mī yǐng shì (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dy103.com/api.php/v1.vod"},
+{"key":"csp_appysv2_dòu yá shì pín ","name":"📺dòu yá shì pín (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_ā líng yǐng shì ","name":"🎥ā líng yǐng shì (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://520dml.xyz/api.php/v1.vod"},
+{"key":"csp_appysv2_OKyǐng shì ","name":"🎥OKyǐng shì (luó bo )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod"},
+
+#shén mǎ     xià liè wǎng zhàn fǎn yīng sù dù jiào kuài ★★★
+{"key":"csp_appysv2_zuì lí shēng TV","name":"📺zuì lí shēng TV(shén mǎ )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://web.xhdj.vip/api.php/iptv/vod/"},
+{"key":"csp_appysv2_yòu zǐ TV","name":"🍈yòu zǐ TV(shén mǎ )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tvht.lanrentk.cc/api.php/iptv/vod/"},
+{"key":"csp_appysv2_xīn 369TV","name":"📺xīn 369TV(shén mǎ )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.13.10.156:2023//api.php/Chengcheng/vod/"},
+{"key":"csp_appysv2_dú yōu yǐng shì ","name":"📺dú yōu yǐng shì (shén mǎ )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
+{"key":"csp_appysv2_CVyǐng shì ","name":"📺CVyǐng shì (shén mǎ )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
+{"key":"csp_appysv2_2hào bì ","name":"🎥2hào bì (shén mǎ )®shén nóng dài yě 💎","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
+
+
+#guān fāng jiě xī     xià liè wǎng zhàn fǎn yīng sù dù jiào kuài ★★★
+{"key":"jiāng hú guān cǎi ","name":"🚩jiāng hú guān cǎi (guān )®shén nóng dài yě 💎","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"jué yǐng ","name":"🚩jué yǐng (guān )®shén nóng dài yě 💎","type":1,"api":"https://106.12.153.187/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"6Uzī yuán ","name":"🚩6Uzī yuán (guān )®shén nóng dài yě 💎","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"tiān táng zī yuán ","name":"🚩tiān táng zī yuán (guān )®shén nóng dài yě 💎","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"tǔ gǒu 2345","name":"🐕tǔ gǒu 2345(guān )®shén nóng dài yě 💎","type":1,"api":"http://2345.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"tǔ gǒu 360","name":"🐕tǔ gǒu 360(guān )®shén nóng dài yě 💎","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"mù zǐ kàn jù ","name":"🚩mù zǐ kàn jù (guān )®shén nóng dài yě 💎","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+#qiē     xià liè wǎng zhàn fǎn yīng sù dù jiào kuài ★★★
+{"key":"jīn yīng zī yuán ","name":"👆jīn yīng zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
+{"key":"77hán jù ","name":"👆77hán jù (qiē )®shén nóng dài yě 💎","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"kuài bō zī yuán ","name":"👆kuài bō zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"xīng hǎi zī yuán ","name":"🪐xīng hǎi zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"https://www.xhzy01.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"guāng sù zī yuán ","name":"👆guāng sù zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"tiān kōng zī yuán ","name":"👆tiān kōng zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"lè duō zī yuán ","name":"👆lè duō zī yuán (qiē )®shén nóng dài yě 💎","type":0,"api":"http://cj.leduocaiji.com/inc/api.php","playUrl":"json:https://api.leduotv.com/wp-api/getvodurl.php?vid=","searchable":1,"quickSearch":1},
+{"key":"FF9zī yuán ","name":"👆FF9zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"https://www.ff9.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"liàng zǐ zī yuán ","name":"👆liàng zǐ zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"yì kàn zī yuán ","name":"👆yì kàn zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"wò lóng zī yuán ","name":"👆wò lóng zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"xīn làng zī yuán ","name":"👆xīn làng zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"yú lè zī yuán ","name":"🐟︎yú lè zī yuán (qiē )®shén nóng dài yě 💎","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+#yōu     xià liè wǎng zhàn fǎn yīng sù dù jiào kuài ★★★
+{"key":"Ukù zī yuán ","name":"👍Ukù zī yuán (yōu )®shén nóng dài yě 💎","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"ài kù yǐng shì ","name":"💖ài kù yǐng shì (yōu )®shén nóng dài yě 💎","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"duō duō zī yuán 2","name":"👍duō duō zī yuán 2(yōu )®shén nóng dài yě 💎","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"ASMR","name":"👍ASMR(yōu )®shén nóng dài yě 💎","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"bō bǐ yǐng shì ","name":"🎥bō bǐ yǐng shì (yōu )®shén nóng dài yě 💎","type":1,"api":"http://xxhhsc.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"xī yòu yǐng shì ","name":"🍋xī yòu yǐng shì (yōu )®shén nóng dài yě 💎","type":1,"api":"http://43.135.75.180:9999/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"sī gǔ yǐng yuàn ","name":"🎥sī gǔ yǐng yuàn (yōu )®shén nóng dài yě 💎","type":1,"api":"https://www.siguyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"yì dá yǐng yuàn ","name":"👍yì dá yǐng yuàn (yōu )®shén nóng dài yě ","type":1,"api":"http://luobu.yss6080.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+#sān fāng jù hé     xià liè wǎng zhàn fǎn yīng sù dù jiào kuài ★★★
+{"key":"yǔ gē gē yǐng shì ","name":"yǔ gē gē yǐng shì (jù )®shén nóng dài yě 💎","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"tiān tiān yǐng shì 2","name":"🎥tiān tiān yǐng shì 2(jù )®shén nóng dài yě 💎","type":1,"api":"http://tttv.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"MXyǐng yuàn 2","name":"MXyǐng yuàn 2(jù )®shén nóng dài yě 💎","type":1,"api":"http://49.235.107.145:81/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"diàn shì jiā ","name":"👍diàn shì jiā (jù )®shén nóng dài yě 💎","type":1,"api":"http://mytvhome.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"huàn fēng yǐng shì ","name":"👍huàn fēng yǐng shì (jù )®shén nóng dài yě 💎","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"xiǎo niǎo dòng màn ","name":"🐦xiǎo niǎo dòng màn (jù )®shén nóng dài yě 💎","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"wō niú dòng màn ","name":"🐌wō niú dòng màn (jù )®shén nóng dài yě 💎","type":1,"api":"http://woniudm.woniu.cyou:20000/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"hǎi yù yǐng shì ","name":"👍hǎi yù yǐng shì (jù )®shén nóng dài yě 💎","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"ā lǐ yǐng shì ","name":"👍ā lǐ yǐng shì (jù )®shén nóng dài yě 💎","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"zuì lí shēng TV","name":"zuì lí shēng TV(jù )®shén nóng dài yě 💎","type":1,"api":"http://web.xhdj.vip/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"rè jù tiān táng ","name":"🎥rè jù tiān táng (jù )®shén nóng dài yě ","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"guì bīn yǐng yuàn ","name":"🎥guì bīn yǐng yuàn (jù )®shén nóng dài yě 💎","type":1,"api":"http://vipdytv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"qù kàn ","name":"🎥qù kàn (jù )®shén nóng dài yě 💎","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"piāo huā diàn yǐng ","name":"piāo huā diàn yǐng (jù )®shén nóng dài yě 💎","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"qiān xún shí guāng ","name":"🎥qiān xún shí guāng (jù )®shén nóng dài yě 💎","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+#XB    xià liè wǎng zhàn fǎn yīng sù dù yī bān ★★
+{"key":"csp_biubiu_lì lì yà diàn yǐng ","name":"📺lì lì yà diàn yǐng (XB)®shén nóng dài yě 🍄","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/lì lì yà diàn yǐng .json"},
+{"key":"csp_biubiu_4kandiàn yǐng wǎng ","name":"📺4kandiàn yǐng wǎng (XB)®shén nóng dài yě 🍄","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/4kandiàn yǐng wǎng .json"},
+{"key":"csp_biubiu_yǐng shì zhī guāng ","name":"📺yǐng shì zhī guāng (XB)®shén nóng dài yě 🍄","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/yǐng shì zhī guāng .json"},
+{"key":"csp_biubiu_COKEMV","name":"🎥COKEMV(XB)®shén nóng dài yě 🍄","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/COKEMV.json"},
+{"key":"csp_biubiu_555diàn yǐng ","name":"🎡555diàn yǐng (XB)®shén nóng dài yě 🍄","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/555diàn yǐng .json"},
+{"key":"csp_biubiu_tè gǒu yǐng shì ","name":"🐕tè gǒu yǐng shì (XB)®shén nóng dài yě 🍄","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/tè gǒu yǐng shì .json"},
+{"key":"csp_biubiu_wéi qí dòng màn ","name":"🎡wéi qí dòng màn (XB)®shén nóng dài yě 🍄","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/wéi qí dòng màn .json"},
+{"key":"csp_biubiu_rén rén yǐng shì ","name":"📺rén rén yǐng shì (XB)®shén nóng dài yě 🍄","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/rén rén yǐng shì .json"},
+{"key":"csp_biubiu_xīng kōng yǐng shì ","name":"🌙xīng kōng yǐng shì (XB)®shén nóng dài yě 🍄","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/xīng kōng yǐng shì .json"},
+//{"key":"*523zī yuán ","name":"🔞🈲chéng rén zī yuán ","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+
+#XPF    xià liè wǎng zhàn fǎn yīng sù dù yī bān ★★
+//{"key":"csp_xpath_dú bō kù ","name":"📺dú bō kù (XPF)(bō fàng qì yào gǎi chéng xì tǒng bō fàng qì )®shén nóng dài yě 🍄","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/duboku.json"},
+//{"key":"if101zī yuán ","name":"📺if101(hǎi wài tuī jiàn )®shén nóng dài yě 🍄","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":0,"filterable":0},
+
+{"key":"csp_xpath_jbb","name":"📺jù bái bái (XPF)®shén nóng dài yě 🍄","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/jubaibai.json"},
+{"key":"csp_xpath_meiju56","name":"📺měi jù wǎng (XPF)®shén nóng dài yě 🍄","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/meiju562.json"},
+{"key":"csp_xpath_dmw","name":"📺dòng màn dǎo (XPF)®shén nóng dài yě 🍄","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/dmw.json"},
+
+#XPF    xià liè wǎng zhàn fǎn yīng sù dù yī bān ★★
+{"key":"csp_xpath_xfeiji","name":"📺xiǎo xiǎo yǐng shì (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/xfeiji.json"},
+{"key":"csp_xpath_pianku","name":"📺piàn kù (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/pianku.json"},
+{"key":"csp_xpath_dym8","name":"📺diàn yǐng mí (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/dym8.json"},
+{"key":"csp_xpath_rttks","name":"📺rén rén yǐng shì (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/rttks.json"},
+{"key":"csp_xpath_akmeiju","name":"💖ài kàn měi jù (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/akmeiju.json"},
+{"key":"csp_xpath_hiyszx","name":"📺yǐng shì zài xiàn (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/hiyszx.json"},
+{"key":"csp_xpath_xqmi","name":"📺xiǎo qiáng mí (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/xqmi.json"},
+{"key":"csp_xpath_tjyy","name":"📺qí yōu yǐng yuàn (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/huigutongying.json"},
+{"key":"csp_xpath_juhuang","name":"📺jù huāng TV(XPMac)®shén nóng dài yě 🍄","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/juhuang.json"},
+{"key":"csp_xpath_doujiaow","name":"dòu jiǎo wǎng (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/doujiaow.json"},
+{"key":"csp_xpath_dy888","name":"📺diàn yǐng 888(XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/dy888.json"},
+{"key":"csp_xpath_yyotv","name":"☀xiǎo tài yáng (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/yyotv.json"},
+{"key":"csp_xpath_aidi","name":"💖ài dí yǐng shì (XPMac)®shén nóng dài yě 🍄","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/aidi.json"},
+{"key":"csp_xpath_pianba","name":"📺piàn ba yǐng yuàn (XPMac)®shén nóng dài yě 🍄","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/pianba.json"},
+{"key":"csp_xpath_duboku","name":"📺dú bō kù (XPMac)®shén nóng dài yě 🍄","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/duboku2.json"},
+{"key":"csp_xpath_94sm","name":"🐴94shén mǎ (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/94sm.json"},
+{"key":"csp_xpath_zj883","name":"📺zhuī jù wǎng (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/zj883.json"},
+{"key":"csp_xpath_cerrd","name":"📺zhēn bú kǎ yǐng yuàn (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/cerrd.json"},
+{"key":"csp_xpath_so2","name":"📺táo jù yā (XP)®shén nóng dài yě 🍄","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/so2.json"},
+
+#yōu zhì zī yuán    xià liè wǎng zhàn fǎn yīng sù dù yī bān ★★
+{"key":"lóng téng zī yuán ","name":"👍lóng téng zī yuán (yōu )®shén nóng dài yě 🍄","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"tǔ jù TV","name":"👍tǔ jù TV(yōu )®shén nóng dài yě 🍄","type":1,"api":"http://tujutv.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+#
+#sān fāng jù hé    xià liè wǎng zhàn fǎn yīng sù dù yī bān ★★
+{"key":"pàng māo yǐng shì ","name":"🐱pàng māo yǐng shì (jù )®shén nóng dài yě 🍄","type":1,"api":"https://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"ài dōu shì pín ","name":"💖ài dōu shì pín (jù )®shén nóng dài yě 🍄","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"shùn jiān yǐng shì ","name":"🎥shùn jiān yǐng shì (jù )®shén nóng dài yě 🍄","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},#
+{"key":"push_agent","name":"tuī sòng ","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"chuàng yì yǐng shì ","name":"🎥chuàng yì yǐng shì (jù )®shén nóng dài yě 🍄","type":1,"api":"https://www.30dian.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"xiāng guā yǐng shì ","name":"🎥xiāng guā yǐng shì (jù )®shén nóng dài yě 🍄","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"ài sī yǐng yuàn ","name":"🎥ài sī yǐng yuàn (jù )®shén nóng dài yě 🍄","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/","playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
+#
+#XB    xià liè wǎng zhàn fǎn yīng sù dù jiào chà ★
+{"key":"csp_biubiu_F7hǎo kàn jù ","name":"🎡F7hǎo kàn jù (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/F7hǎo kàn jù .json"},
+{"key":"csp_biubiu_guā pí TV","name":"🍉guā pí TV(XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/guā pí TV.json"},
+{"key":"csp_biubiu_dà mǐ xīng qiú ","name":"🍚dà mǐ xīng qiú (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dà mǐ xīng qiú .json"},
+{"key":"csp_biubiu_87yǐng yuàn ","name":"🎡87yǐng yuàn (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/87yǐng yuàn .json"},
+{"key":"csp_biubiu_gàn fàn yǐng shì ","name":"🍚gàn fàn yǐng shì (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/gàn fàn yǐng shì .json"},
+{"key":"csp_biubiu_OmoFundòng màn ","name":"🏄OmoFundòng màn (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/OmoFundòng màn .json"},
+{"key":"csp_biubiu_nài luò yǐng yuàn ","name":"🎡nài luò yǐng yuàn (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/nài luò yǐng yuàn .json"},
+{"key":"csp_biubiu_jù bái bái -lán guāng ","name":"🎡jù bái bái -lán guāng (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/jù bái bái -lán guāng .json"},
+{"key":"csp_biubiu_yā nài fēi ","name":"📫yā nài fēi (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/yā nài fēi .json"},
+{"key":"csp_biubiu_xiǎo qiáng mí ","name":"🎡xiǎo qiáng mí (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/xiǎo qiáng mí .json"},
+{"key":"csp_biubiu_jiǔ zhōu yǐng shì ","name":"🎡jiǔ zhōu yǐng shì (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/jiǔ zhōu yǐng shì .json"},
+{"key":"csp_biubiu_lè zhū yǐng shì ","name":"🐷lè zhū yǐng shì (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/lè zhū yǐng shì .json"},
+{"key":"csp_biubiu_kǒu dài yǐng yuàn ","name":"📫kǒu dài yǐng yuàn (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/kǒu dài yǐng yuàn .json"},
+{"key":"csp_biubiu_běi chuān yǐng shì ","name":"🎡běi chuān yǐng shì (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/běi chuān yǐng shì .json"},
+{"key":"csp_biubiu_liù dù TV","name":"🎡liù dù TV(XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/liù dù TV.json"},
+{"key":"csp_biubiu_23yǐng yuàn ","name":"🎡23yǐng yuàn (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/23yǐng yuàn .json"},
+{"key":"csp_biubiu_shén mǎ jiē kǒu ","name":"🐴shén mǎ jiē kǒu (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/shén mǎ jiē kǒu .json"},
+{"key":"csp_biubiu_shén mǎ yǐng yuàn ","name":"🐴shén mǎ yǐng yuàn (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/shén mǎ yǐng yuàn .json"},
+{"key":"csp_biubiu_wán měi kàn kàn yǐng shì ","name":"📺wán měi kàn kàn yǐng shì (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/wán měi kàn kàn yǐng shì .json"},
+{"key":"csp_biubiu_dá dá guī ","name":"🐢dá dá guī (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dá dá guī .json"},
+{"key":"csp_biubiu_huā māo TV","name":"🐱huā māo TV(XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/huā māo TV.json"},
+{"key":"csp_biubiu_348diàn yǐng wǎng ","name":"📺348diàn yǐng wǎng (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/348diàn yǐng wǎng .json"},
+{"key":"csp_biubiu_1080Kkk","name":"📺1080Kkk(XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/1080Kkk.json"},
+{"key":"csp_biubiu_ài gǎng jù ","name":"💖ài gǎng jù (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/ài gǎng jù .json"},
+{"key":"csp_biubiu_VIP1280","name":"📺VIP1280(XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/VIP1280.json"},
+{"key":"csp_biubiu_dà xiàng TV","name":"🐘dà xiàng TV(XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dà xiàng TV.json"},
+{"key":"csp_biubiu_lán méi yǐng shì ","name":"🍓lán méi yǐng shì (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/lán méi yǐng shì .json"},
+{"key":"csp_biubiu_piāo huā bō bō ","name":"📫piāo huā bō bō (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/piāo huā bō bō .json"},
+{"key":"csp_biubiu_dòu jiǎo wǎng ","name":"📫dòu jiǎo wǎng (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/dòu jiǎo wǎng .json"},
+{"key":"csp_biubiu_xī fàn yǐng shì ","name":"🍛xī fàn yǐng shì (XB)®shén nóng dài yě ","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/xī fàn yǐng shì .json"},
+{"key":"csp_biubiu_shì zhōng xīn yǐng yuàn ","name":"📺shì zhōng xīn yǐng yuàn (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/shì zhōng xīn yǐng yuàn .json"},
+{"key":"csp_biubiu_lǐn dōng yòu zhì ","name":"❄lǐn dōng yòu zhì (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/lǐn dōng yòu zhì .json"},
+{"key":"csp_biubiu_hóng lǐng jīn ","name":"📫hóng lǐng jīn (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/hóng lǐng jīn .json"},
+{"key":"csp_biubiu_lǎo diàn yǐng ","name":"📺lǎo diàn yǐng (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/lǎo diàn yǐng .json"},
+{"key":"csp_biubiu_Nikeyǐng shì wǎng ","name":"📺Nikeyǐng shì wǎng (XB)®shén nóng dài yě 🐞","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/Nikeyǐng shì wǎng .json"},
+
+
+// 👇️fèn lèi qǐ shǐ yè mǎ bú wéi 1（xīn Biubiucè shì bǎn  de xīn cān shù  "qishiye": "2", kě shùn lì jiě jué )
+// 👇️
+//{"key":"csp_biubiu_zhēn bú kǎ yǐng yuàn -bú zhī chí sōu suǒ ","name":"📺zhēn bú kǎ yǐng yuàn -bú zhī chí sōu suǒ (XB)®shén nóng dài yě ","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXB2/zhēn bú kǎ yǐng yuàn -bú zhī chí sōu suǒ .json"},
+## XPathxì liè 
+#XPF    xià liè wǎng zhàn fǎn yīng sù dù jiào chà ★
+{"key":"csp_xpath_huya","name":"🐯hǔ yá (XPF)®shén nóng dài yě 🐞","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/huya2.json"},
+{"key":"csp_xpath_cokemv","name":"📺Cokemv(XPF)®shén nóng dài yě 🐞","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/cokemv.json"},
+{"key":"csp_xpath_xiangdao","name":"📺nóng mín yǐng shì (XPF)®shén nóng dài yě 
+🐞","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/xiangdao.json"},
+
+#XP    xià liè wǎng zhàn fǎn yīng sù dù jiào chà ★
+{"key":"csp_xpath_wanmeikk","name":"📺wán měi kàn kàn (XP)®shén nóng dài yě 🐞","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/wanmeikk.json"},
+{"key":"csp_xpath_lezhutv","name":"🐷lè zhū TV(XPMac)®shén nóng dài yě 🐞","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dq8888/TVBox/raw/branch/main/MaooXP/lezhutv.json"},
+
+## Mliú lǎn qì zhōng APPyǐng shì guī zé zhī chí (AppYsV2)
+#luó bo /bái cài /mù bái /lǜ dòu 
+
+#luó bo     xià liè wǎng zhàn fǎn yīng sù dù jiào chà ★
+{"key":"csp_appysv2_yú yú yǐng shì ","name":"📺yú yú yǐng shì (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
+{"key":"csp_appysv2_zhù mèng yún yǐng shì ","name":"📺zhù mèng yún yǐng shì (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_yī zhàn VIPyǐng shì ","name":"📺yī zhàn VIPyǐng shì (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dpp8.xyz/api.php/v1.vod"},
+{"key":"csp_appysv2_yǐng kù ","name":"📺yǐng kù (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_yuè ér yǐng shì ","name":"🌙yuè ér yǐng shì (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yue52.xyz/api.php/v1.vod"},
+{"key":"csp_appysv2_xīn zǒng zī yuán ","name":"📺xīn zǒng zī yuán (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_xī yáng yǐng shì ","name":"☀xī yáng yǐng shì (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.seo-tv.work/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_xiǎo niǎo dòng màn ","name":"🐦xiǎo niǎo dòng màn (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_xīng chén TV","name":"💥xīng chén TV(luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_wō niú dòng màn ","name":"🐌wō niú dòng màn (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_wù kōng yǐng yuàn ","name":"🙈wù kōng yǐng yuàn (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
+{"key":"csp_appysv2_tiān chéng yǐng shì ","name":"🎥tiān chéng yǐng shì (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tcspvip.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_qún xīn yǐng shì ","name":"🎥qún xīn yǐng shì (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
+{"key":"csp_appysv2_kě lè yǐng shì ","name":"🍾kě lè yǐng shì (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://klyingshi.com/api.php/v1.vod"},
+{"key":"csp_appysv2_jiā jiā yǐng shì ","name":"🎥jiā jiā yǐng shì (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.jiajia.pub/api.php/v1.vod"},
+{"key":"csp_appysv2_hú yǐng TV","name":"🦊hú yǐng TV(luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.foxhtv.com/api.php/v1.vod"},
+{"key":"csp_appysv2_ài diàn yǐng ","name":"💖ài diàn yǐng (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_MXyǐng yuàn ","name":"🎥MXyǐng yuàn (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.889998.xyz/api.php/v1.vod"},
+{"key":"csp_appysv2_52kàn jù ","name":"🎥52kàn jù (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod"},
+{"key":"csp_appysv2_521kàn jù ","name":"🎥521kàn jù (luó bo )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://521kanju.com/api.php/v1.vod"},
+#
+
+#shén mǎ     xià liè wǎng zhàn fǎn yīng sù dù jiào chà ★
+{"key":"csp_appysv2_yún xǐ TV","name":"📺yún xǐ TV(shén mǎ )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.138.193.213:8181//api.php/Miguo/vod/"},
+{"key":"csp_appysv2_tiān kōng TV","name":"🎥tiān kōng TV(shén mǎ )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
+{"key":"csp_appysv2_mì guǒ TV","name":"🍈mì guǒ TV(shén mǎ )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.236.155:88//api.php/Miguo/vod/"},
+{"key":"csp_appysv2_guì bīn yǐng yuàn ","name":"📺guì bīn yǐng yuàn (shén mǎ )®shén nóng dài yě 🐞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
+#
+
+
+## guǎng dà xiá  zī yuán wǎng cǎi jí 
+#guān fāng jiě xī     xià liè wǎng zhàn fǎn yīng sù dù jiào chà ★
+{"key":"nuò xùn zī yuán ","name":"🚩nuò xùn zī yuán (guān )®shén nóng dài yě 🐞","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
+{"key":"devclhzī yuán ","name":"🚩devclhzī yuán (guān )®shén nóng dài yě 🐞","type":1,"api":"http://zl.devclh.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"yì mèng ","name":"🚩yì mèng (guān )®shén nóng dài yě 🐞","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"xiǎo māo mī ","name":"🐈xiǎo māo mī (guān )®shén nóng dài yě 🐞","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"http://xiaomaomi.cc/player/?url=","searchable":1,"quickSearch":1},
+
+#
+#qiē piàn zī yuán     xià liè wǎng zhàn fǎn yīng sù dù jiào chà ★
+{"key":"lán tiān zī yuán ","name":"👆lán tiān zī yuán (qiē )®shén nóng dài yě 🐞","type":1,"api":"https://api.ltzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"jí kè zī yuán ","name":"👆jí kè zī yuán (qiē )®shén nóng dài yě 🐞","type":1,"api":"https://jkzy1.com/api.php/provide/vod/from/zkzym3u8/","searchable":1,"quickSearch":1},
+{"key":"1080zī yuán kù ","name":"👆1080zī yuán kù (qiē )®shén nóng dài yě 🐞","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
+{"key":"TOMzī yuán ","name":"👆TOMzī yuán (qiē )®shén nóng dài yě 🐞","type":1,"api":"https://api.tomcaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"hóng niú zī yuán ","name":"👆hóng niú zī yuán (qiē )®shén nóng dài yě ","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"kù diǎn zī yuán ","name":"👆kù diǎn zī yuán (qiē )®shén nóng dài yě 🐞","type":1,"api":"https://kudianzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"sù gèng zī yuán ","name":"👆sù gèng zī yuán (qiē )®shén nóng dài yě 🐞","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"fēi sù zī yuán ","name":"👆fēi sù zī yuán (qiē )®shén nóng dài yě 🐞","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"hán jù zī yuán ","name":"👆hán jù zī yuán (qiē )®shén nóng dài yě 🐞","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"bā jiè zī yuán ","name":"👆bā jiè zī yuán (qiē )®shén nóng dài yě 🐞","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"nán guó yǐng yuán ","name":"👆nán guó yǐng yuán (qiē )®shén nóng dài yě 🐞","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"fān qié zī yuán ","name":"👆fān qié zī yuán (qiē )®shén nóng dài yě 🐞","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://dp.fqplayer.com/dplayer/?url=","searchable":1,"quickSearch":1},
+#
+
+{"key":"push_agent","name":"tuī sòng ","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
+],
+
+"parses":[
+{"name":"jiě xī jù hé ","type":3,"url":"Demo"},
+{"name":"Jsonbìng fā ","type":2,"url":"Parallel"},
+{"name":"Jsonlún xún ","type":2,"url":"Sequence"},
+{"name": "keyu","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "téng xùn ", "qiyi", "ài qí yì ", "qí yì ", "youku", "yōu kù ", "mgtv", "máng guǒ ", "letv", "lè shì ", "pptv", "PPTV", "sohu", "bilibili", "bì lǐ bì lǐ ", "bì lǐ "],"header": {"User-Agent": "okhttp/4.1.0"}}},
+# type1 jù hé .bìng fā .lún xún 
+{"name":"yún youjiě xī 2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name": "ZNJSONjiě xī ","type": 1,"url": "https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},	
+{"name": "lǜ yè ","type": 1,"url": "https://hc.izny.cn/json.php?url="},
+{"name":"nuò xùn ","type":0,"url":"https://www.nxflv.com/?url="},
+{"name":"kuài wǔ ","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
+{"name": "ài kù ","type": 1,"url": "https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="},
+{"name": "ài kù kàn kàn ","type": 1,"url": "http://www.ikukk.com/?ac=1&url="},
+{"name":"luó bo ","type": 0,"url": "https://ys.lbbb.cc/?url="},
+
+
+//{"name":"ài kù ","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
+{"name":"zuì xiān ","type":0,"url":"https://jx.zui.cm/?url="}, {"name":"m1907","type":0,"url":"https://z1.m1907.cn/?jx="},
+{"name":"Parwixjiě xī ","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"gāng gāng yǐng shì ","type":0,"url":"https://vip.fuqizhishi.com/?v="},
+{"name":"OKjiě xī ","type":0,"url":"https://okjx.cc/?url="}, 
+{"name":"bān yùn ","type":1,"url":"https://jx.bynote.top/API.php?url=","ext":{"flag":["qiyi","iqiyi","qí yì ","ài qí yì ","qq","téng xùn ","youku","yōu kù ","pptv","PPTV","letv","lè shì ","bilibili","bì lǐ bì lǐ ","bì lǐ ","mgtv","máng guǒ ","xigua","xī guā ","sohu","sōu hú ","cntv","cctv","yāng shì ","1905","m1905"]}},
+{"name":"ài dòu ","type":1,"url":"http://id190.tpddns.cn:81/jsonch/?url=","ext":{"flag":["qiyi","iqiyi","qí yì ","ài qí yì ","qq","téng xùn ","youku","yōu kù ","pptv","PPTV","letv","lè shì ","bilibili","bì lǐ bì lǐ ","bì lǐ ","mgtv","máng guǒ ","xigua","xī guā ","sohu","sōu hú ","cntv","cctv","yāng shì ","1905","m1905"]}},
+{"name":"OKjxzōng hé ","type": 0,"url": "https://okjx.cc/?url="},
+{"name":"293","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name":"parwixwěn dìng ","type":1,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905","yōu kù ","máng guǒ ","téng xùn ","ài qí yì ","qí yì "]}},
+
+{"name":"m3u8tvgāo qīng ","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
+{"name":"xiàn lù m9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
+{"name":"xiàn lù NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
+{"name":"lóng xiā ","type":1,"url":"http://106.55.234.91:4433/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dalvik/2.1.0"}}},
+{"name":"yī gè jiě xī ","type":0,"url":"http://1.117.152.239:39000/?url="},
+{"name":"Webjiě xī ","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","yōu kù ","mgtv","máng guǒ ","qq","téng xùn ","qiyi","ài qí yì ","iqiyi","qí yì "]}},
+{"name":"GGTVkuài sù ","type": 1,"url":"https://play.fuqizhishi.com/gang0823/API.php?appkey=QQ172598364&url="},
+{"name":"yóu guǒ ","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qiyi","iqiyi","qí yì ","ài qí yì ","qq","téng xùn ","youku","yōu kù ","pptv","PPTV","letv","lè shì ","bilibili","bì lǐ bì lǐ ","bì lǐ ","mgtv","máng guǒ ","xigua","xī guā ","sohu","sōu hú ","cntv","cctv","yāng shì ","1905","m1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
+{"name":"renrenmi2","type":1,"url":"https://a.dxzj88.com/jxrrm/jiami.php?url=","ext":{"flag":["renrenmi"]}},
+{"name":"renrenmi3","type":1,"url":"https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=","ext":{"flag":["renrenmi"]}},
+{"name":"Pro2","type":1,"url":"https://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=","ext":{"flag":["ltnb","rx","qiyi","ài qí yì ","qq","qí yì ","sohu","letv","youku","yōu kù ","mgtv","máng guǒ "]}},
+{"name":"4","type":1,"url":"https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=","ext":{"flag":["youku","yōu kù ","mgtv","máng guǒ ","qq","téng xùn ","qiyi","ài qí yì ","qq","qí yì "]}},
+{"name":"8","type":1,"url":"https://app.iminna.com/jx/?url=","ext":{"flag":["youku","yōu kù ","mgtv","máng guǒ ","qq","téng xùn ","qiyi","ài qí yì ","qq","qí yì "]}},
+{"name":"jù fēng yǐng yuàn 2","type":1,"url":"https://vvip.funsline.cn/api/?key=3xWfEoDf4V9p9Y20CR&url=","ext":{"flag":["ziqie","youku","yōu kù ","qiyi","ài qí yì ","qí yì ","mgtv","máng guǒ ","qq","téng xùn "]}},
+{"name":"wǒ ài diàn yǐng wǎng ","type":1,"url":"https://jhpc.manduhu.com/j1217.php?url=","ext":{"flag":["qiyi","ài qí yì ","qí yì ","mgtv","máng guǒ ","youku","yōu kù ","pptv","PPTV"]}},
+{"name":"jiāng hú jiě xī ","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","téng xùn ","youku","yōu kù ","mgtv","máng guǒ ","xigua","xī guā "]}},
+{"name":"wáng pái ","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","téng xùn ","qiyi","ài qí yì ","qí yì ","youku","yōu kù ","mgtv","máng guǒ ","sōu hú ","sohu","letv","lè shì ","bilibili","bì lǐ bì lǐ ","bì lǐ ","xigua","xī guā "]}},
+{"name":"huān yǔ ","type":1,"url":"http://www.youhuifuligou.com/json/?id=7&url=","ext":{"flag":["qq","téng xùn ","qiyi","ài qí yì ","qí yì ","youku","yōu kù ","letv","lè shì ","xigua","xī guā "]}},
+{"name":"hfyrw","type":1,"url":"https://json.hfyrw.com/mao.go?url=","ext":{"flag":["ltnb","renrenmi"]}},
+{"name":"aiaine02","type":1,"url":"https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=","ext":{"flag":["ltnb","renrenmi","xfyun","miaoparty","miaoparty2","miaoparty3","longteng","xueren"]}},
+{"name":"RongXingVR","type":1,"url":"https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=","ext":{"flag":["renrenmi","rx","rongxing","mgtv","máng guǒ ","bilibili","bì lǐ bì lǐ ","bì lǐ "]}},
+{"name":"jx36","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=9105801&key=huwxFGILMOQSTUZ679&url=","ext":{"flag":["qq","téng xùn ","qiyi","ài qí yì ","qí yì ","youku","yōu kù ","mgtv","máng guǒ "]}},
+{"name":"J13","type":1,"url":"https://languangyingshiziyuan.1080zy.top/longtengzy.php/?url=","ext":{"flag":["ltnb"]}},
+{"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}},
+{"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["rx"]}},
+{"name":"miāo pài duì zī yuán 3","type":1,"url":"https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=","ext":{"flag":["ltnb","renrenmi"]}},
+{"name":"miāo pài duì zī yuán 2","type":1,"url":"https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=","ext":{"flag":["renrenmi","qq","téng xùn ","qiyi","ài qí yì ","qí yì ","youku","yōu kù ","mgtv","máng guǒ ","bilibili","bì lǐ bì lǐ ","bì lǐ ","sohu"]}},
+{"name":"leduotv","type":1,"url":"https://api.leduotv.com/wp-api/getvodurl.php?vid=","ext":{"flag":["leduo"]}},
+
+
+# type0 shǒu dòng jiě xī 
+{"name":"OJBK","type":0,"url":"https://jmwl.qd234.cn/v/?v=","ext":{"flag":["ltnb","renrenmi","rx","xfyun","muxm3u8","xigua","xueren","qq","téng xùn ","qiyi","ài qí yì ","qí yì ","youku","yōu kù ","mgtv","máng guǒ ","bilibili","bì lǐ bì lǐ ","bì lǐ ","pptv","PPTV","sohu","letv"]}},
+{"name":"M117","type":0,"url":"http://1.117.152.239:39000/?url="},
+{"name":"M2090","type":0,"url":"https://m2090.com/?url="},
+{"name":"pán gǔ ","type":0,"url":"http://www.pangujiexi.com/pangu/?url="},
+{"name":"pán gǔ jiě xī ","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url=","ext":{"flag":["qq","téng xùn ","qiyi","ài qí yì ","qí yì ","youku","yōu kù ","mgtv","máng guǒ "]}},
+{"name": "pán gǔ yún ","type": 0,"url": "https://go.yh0523.cn/y.cy?url="},
+{"name":"OKjiě xī ","type": 0,"url": "https://api.okjx.cc:3389/jx.php?url="},
+{"name":"yè mù jiě xī ","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"zui","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
+{"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url=","ext":{"flag":["qq","téng xùn ","qiyi","ài qí yì ","qí yì ","youku","yōu kù ","mgtv","máng guǒ ","letv","lè shì ","pptv","PPTV","sohu","bilibili","bì lǐ bì lǐ ","bì lǐ "]}},
+{"name":"parwix2","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v=","ext":{"flag":["qq","téng xùn ","qiyi","ài qí yì ","qí yì ","youku","yōu kù ","mgtv","máng guǒ ","letv","lè shì ","pptv","PPTV","sohu","bilibili","bì lǐ bì lǐ ","bì lǐ "]}},
+{"name":"xuerenweb","type":0,"url":"https://s.2tu.uk/?url=","ext":{"flag":["xueren"]}},
+{"name":"xuerenweb2","type":0,"url":"https://xrm3u8.qd234.cn/?url=","ext":{"flag":["xueren"]}},
+{"name":"měi jù chóng ","type":0,"url":"https://jx.daiguaji.com/?url=","ext":{"flag":["zijian"]}},
+{"name":"miao","type":0,"url":"https://jx.58g8.com/1/?url=","ext":{"flag":["miaoparty"]}},
+{"name":"web1","type":0,"url":"https://www.nxflv.com/?url=","ext":{"flag":["youku","yōu kù ","mgtv","máng guǒ ","qq","téng xùn ","qiyi","ài qí yì ","qq","qí yì ","sohu","letv"]}},
+{"name":"wàn néng jiě xī ","type":0,"url":"https://vip.legendwhb.cn/m3u8.php?url=","ext":{"flag":["ltnb","renrenmi","qq","téng xùn ","qiyi","ài qí yì ","qí yì ","youku","yōu kù ","mgtv","máng guǒ ","bilibili","bì lǐ bì lǐ ","bì lǐ "]}},
+{"name":"ltnb04","type":0,"url":"https://vip.bljiex.com/?v=","ext":{"flag":["ltnb"]}},
+{"name":"ltnb02","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
+{"name":"CL4K01","type":0,"url":"https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","téng xùn "]}},
+{"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","téng xùn ","pptv","PPTV"]}}
+],
+//"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+"flags":["youku","qq","iqiyi","qiyi","letv","le","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","CL4K","qq","téng xùn ","pptv","PPTV","ltnb","ài qí yì ","qí yì ","youku","yōu kù ","mgtv","máng guǒ ","bilibili","bì lǐ bì lǐ ","bì lǐ ","miaoparty","rx","rongxing","xfyun","rrm3u8","xueren","zijian","1905","m1905","dbm3u8","mgtv","leduo","duoduozy","wasu","fuckapp","ftqp2","ftqp3","ftqp4",    "ftqp5","longteng", "ziqie","wuduzy","xuanfeng","xigua"],
+"ijk":[
+{"group":"ruǎn jiě mǎ ","options":[
+{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"0"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
+{"category":4,"name":"mediacodec-hevc","value":"0"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}
+]},
+{"group":"yìng jiě mǎ ","options":[
+{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"1"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
+{"category":4,"name":"mediacodec-hevc","value":"1"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}
+]}
+],
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+}
