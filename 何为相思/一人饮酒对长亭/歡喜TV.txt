@@ -2,7 +2,6 @@
 "sites":[
 {"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "剧荒","name": "剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Gitcafe","name": "小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "3781469b13074e4cac1e0e7113e4fa20"},
 {"key": "KanSJ_spider","name": "看视界","type": 3,"api": "csp_KanSJ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -52,7 +51,7 @@
 {
 "name": "redirect",
 "urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9tdHY5NTI3L21hby8tL3Jhdy9tYXN0ZXIvbWFvbGl2ZS50eHQ="
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9tZWV0LXZpcC5naXRodWIuaW8vJUU3JTlCJUI0JUU2JTkyJUFELyVFNyU5NCVCNSVFNSVCRCVCMS50eHQ="
 ]
 }
 ]
