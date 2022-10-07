@@ -1,3 +1,8 @@
+在线短视频,#genre#
+点击切换视频,https://v.nrzj.vip/video.php
+点击切换视频,http://wmsp.cc/video.php
+点击切换视频,https://www.ziyuanyo.com/tool/video/tool_ks_xjj.php
+
 全网电影频道,#genre#
 天映频道,mitv://ns1.hellotvvod.com:9906/5d1424110dae4fb0a35fe38e65a30dc8
 天映经典,mitv://ns1.hellotvvod.com:9906/dc4f787accc5467aae371d6c9edff168
