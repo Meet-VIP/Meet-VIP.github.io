@@ -43,6 +43,48 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 斗鱼电影HD25,http://diyp.112114.xyz/douyu/315131
 
 
+全网电影频道,#genre#
+天映频道,mitv://ns1.hellotvvod.com:9906/5d1424110dae4fb0a35fe38e65a30dc8
+天映经典,mitv://ns1.hellotvvod.com:9906/dc4f787accc5467aae371d6c9edff168
+天映经典,http://27.47.71.97:808/hls/62/index.m3u8
+tvN Movies HD,mitv://ns1.hellotvvod.com:9906/91bf08011ac0427bb97dfeac161d54a0
+HKC电影台,mitv://ns1.hellotvvod.com:9906/ccce5c8ff2f443398997475b3dd32460
+凤凰电影台,mitv://ns1.hellotvvod.com:9906/14d7dd09d36440aea87f5092200de8c4
+卫视电影台,mitv://ns1.hellotvvod.com:9906/279dafdc559140f3bd38bf9db66d08e4
+东森电影台,mitv://ns1.hellotvvod.com:9906/4e4b10f26dc54b6fb6de01c8397f5fb7
+纬来电影台,mitv://ns1.hellotvvod.com:9906/db650b759f3a4d3197a32d76ba5a8408
+龙祥电影,mitv://ns1.hellotvvod.com:9906/54ab7734b3c647819ab650738d0ad918
+HBO,mitv://ns1.hellotvvod.com:9906/e00d8a81a4704aa69e36d053321f98c0
+东森洋片台,mitv://ns1.hellotvvod.com:9906/7fa872e8cba94b9faf9c31c6efca7345
+AXN,mitv://ns1.hellotvvod.com:9906/3532fa2541bf47feb0df3345892de942
+好莱坞电影台,mitv://ns1.hellotvvod.com:9906/86b0fcc06b5544af8620f881d9ba81f3
+CINEMAX,mitv://ns1.hellotvvod.com:9906/72742355524b4f52a09152767eaad28e
+纬来育乐台,mitv://ns1.hellotvvod.com:9906/1b6ff310cbe3447ea5cf7313a8145f36
+HBO强档巨献,mitv://ns1.hellotvvod.com:9906/dd70d6a325ec4a1082b353b6f53258cc
+HBO原创巨献,mitv://ns1.hellotvvod.com:9906/d3bf145481c34f3698fc408352259570
+美亚电影台HD,mitv://ns1.hellotvvod.com:9906/54aad15392504f0a930098713599290e
+龙华电影,mitv://ns1.hellotvvod.com:9906/cab94f0e4bc648d8b5a493c6f2c4f6d5
+星卫HD电影台,mitv://ns1.hellotvvod.com:9906/9ab4ce1e50924f0eb888b6f5eb96e78e
+靖天映画,mitv://ns1.hellotvvod.com:9906/3f5a8cf3904f4781a4d8552c87a91bf4
+靖天电影台,mitv://ns1.hellotvvod.com:9906/4b195d93f649432482cbeab3dd031f85
+WARNER TV,mitv://ns1.hellotvvod.com:9906/70a179cb46764061b038e7435b4128b0
+Star Movies HD,mitv://ns1.hellotvvod.com:9906/3e14148f7bda44bead4e7bdc33374d89
+AMC最爱电影,mitv://ns1.hellotvvod.com:9906/4b1513ea3089415584117a654904dcda
+HBO Family,mitv://ns1.hellotvvod.com:9906/e2d6d1b9650148bb8da614826c465d0b
+CatchPlay电影台,mitv://ns1.hellotvvod.com:9906/5c8833b0f48141748659b8d742c4a89f
+CinemaWorld,mitv://ns1.hellotvvod.com:9906/6fc0d062c3914edfa7df5de4d398b940
+壹电视电影台,mitv://ns1.hellotvvod.com:9906/c80a4021530b43339f67efb884232e5d
+采昌影剧台,mitv://ns1.hellotvvod.com:9906/55f27cb3e56046158d55bc334bf53ee3
+BOO,mitv://ns1.hellotvvod.com:9906/09b4003442d2410ba666f23c22fe7009
+Thrill,mitv://ns1.hellotvvod.com:9906/1c4875511a1f4cb1878be9976149d452
+爆谷星影台,mitv://ns1.hellotvvod.com:9906/7b63e2da61ab40a38fe2c365025fdf04
+HITS Movies,mitv://ns1.hellotvvod.com:9906/f05cfbf000b34ce9a51e372bc117a032
+SHOWCASE MOVIES,mitv://ns1.hellotvvod.com:9906/d40a36ea1b3a4ecea078e14d7db459a0
+影迷数位电影台,mitv://ns1.hellotvvod.com:9906/68c0769f974746ec958401a2e99442ae
+美亚电影台(粤语),mitv://ns1.hellotvvod.com:9906/717fa19bd33d4ddeba626fbfa007ef0e
+爆谷台,mitv://ns1.hellotvvod.com:9906/fac0842740b84a6eae1c44019e810426
+
+
 
 
 
