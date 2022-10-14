@@ -1,7 +1,7 @@
 短视频,#genre#
 点击切换视频,http://fuyhi.top/api/video_xjj/api.php?type=video
-点击切换视频,http://fuyhi.top/api/video_xjj/api.php?type=video
-点击切换视频,http://fuyhi.top/api/video_xjj/api.php?type=video
+点击切换视频1,http://fuyhi.top/api/video_xjj/api.php?type=video
+点击切换视频2,http://fuyhi.top/api/video_xjj/api.php?type=video
 
 
 
