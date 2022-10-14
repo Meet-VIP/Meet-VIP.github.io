@@ -1,4 +1,4 @@
-在线短视频视频,#genre#
+短视频,#genre#
 点击切换视频,http://fuyhi.top/api/video_xjj/api.php?type=video
 点击切换视频,http://fuyhi.top/api/video_xjj/api.php?type=video
 点击切换视频,http://fuyhi.top/api/video_xjj/api.php?type=video
