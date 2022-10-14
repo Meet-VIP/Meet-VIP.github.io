@@ -1,6 +1,7 @@
 短视频,#genre#
 点击切换视频0,http://hc.baozi66.top:99/xjj.php?type=mp4
 点击切换视频1,https://api.linhun.vip/api/Littlesistervideo
+点击切换视频2,http://101.33.199.104/api/xjj
 
 
 4K,#genre#
