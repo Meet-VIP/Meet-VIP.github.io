@@ -171,6 +171,11 @@ YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 我秀轮播直播点击切换,http://mmitv.top/test/woxiu.php?id=top
 快手轮播直播点击切换,http://mmitv.top/test/ks.php
 网络热门歌曲点击切换,https://api.vvhan.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C
+测试频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
+音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 斗鱼电影16,http://diyp.112114.xyz/douyu/96577
 斗鱼电影HD11,http://diyp.112114.xyz/douyu/8770422
 斗鱼电影HD14,http://diyp.112114.xyz/douyu/36337
