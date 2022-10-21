@@ -7,6 +7,7 @@
 4K,#genre#
 纯享4k,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8,11,22,33
 4K测试,http://111.20.33.103/TVOD/88888893/224/3221226352/index.m3u8?icpid=88888893&from=1&hms_devid=83,523
+南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
@@ -162,6 +163,7 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 
 
 在线娱乐电影,#genre#
+YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 抖音轮播直播点击切换,http://mmitv.top/test/douyin.php?id=top
 花椒轮播直播点击切换,http://mmitv.top/test/hjzb.php?id=top
 6间房轮播直播点击切换,http://mmitv.top/test/6room.php?id=top
