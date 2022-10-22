@@ -7,6 +7,13 @@
 4K,#genre#
 纯享4k,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8,11,22,33
 4K测试,http://111.20.33.103/TVOD/88888893/224/3221226352/index.m3u8?icpid=88888893&from=1&hms_devid=83,523
+CNC中文4K测试,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+CNC英文4K测试,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+法国时尚4kUHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+咪咕4k,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+BEST电影4K,http://b1batman.qicp.vip:8055/udp/239.45.3.107:5140
+BEST纪实4K,http://b1batman.qicp.vip:8055/udp/239.45.1.10:5140
+BEST少儿4K,http://b1batman.qicp.vip:8055/udp/239.45.1.1:5140
 南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
