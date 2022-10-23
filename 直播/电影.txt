@@ -196,6 +196,7 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 
 
 在线娱乐电影,#genre#
+YY音乐991好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 抖音轮播直播点击切换,http://mmitv.top/test/douyin.php?id=top
 花椒轮播直播点击切换,http://mmitv.top/test/hjzb.php?id=top
