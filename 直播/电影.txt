@@ -34,7 +34,8 @@
 纯享4k,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8,11,22,33
 4K测试,http://111.20.33.103/TVOD/88888893/224/3221226352/index.m3u8?icpid=88888893&from=1&hms_devid=83,523
 北京IPTV4K,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
-南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuoIPTV淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
+南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo
+IPTV淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
 IPTV淘娱乐,http://111.13.42.230/PLTV/88888888/224/3221226551/1.m3u8
 IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
