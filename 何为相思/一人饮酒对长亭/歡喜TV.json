@@ -114,11 +114,7 @@
 
 //电视直播
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=<script>
-<!--
-document.write(unescape("%3Cscript%3E%0A%3C%21--%0Adocument.write%28unescape%28%22%253Cscript%253E%250A%253C%2521--%250Adocument.write%2528unescape%2528%2522aHR0cHM6Ly9tZWV0LXZpcC5naXRodWIuaW8vJUU3JTlCJUI0JUU2JTkyJUFELyVFNyU5NCVCNSVFNSVCRCVCMS50eHQ%25253D%2522%2529%2529%253B%250A//--%253E%250A%253C/script%253E%22%29%29%3B%0A//--%3E%0A%3C/script%3E"));
-//-->
-</script>"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tZWV0LXZpcC5naXRodWIuaW8vJUU3JTlCJUI0JUU2JTkyJUFELyVFNyU5NCVCNSVFNSVCRCVCMS50eHQ="]}]}],
 
 //解码模式
 
