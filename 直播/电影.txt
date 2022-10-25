@@ -199,6 +199,9 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 
 
 在线娱乐电影,#genre#
+991,https://sslproxy.yy.com:4443/livesystem/15013_xv_54880976_54880976_0_0_0-15013_xa_54880976_54880976_0_0_0.m3u8?org=streamsvr&uuid=472bd630820e44468dc8fb1e3a1f3a13&t=1666623897&tk=da2fb1297439d331c2d1cdc8df416dda&appid=15013&r=enter&playeruid=0
+993,https://sslproxy.yy.com:4443/livesystem/15013_xv_22490906_22490906_0_0_0-15013_xa_22490906_22490906_0_0_0.m3u8?org=streamsvr&uuid=71eea4673a734a919a2ec29899c90843&t=1666623978&tk=fe86d8e872de13808599deea88b8047e&appid=15013&r=enter&playeruid=0
+
 YY音乐991好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 抖音轮播直播点击切换,http://mmitv.top/test/douyin.php?id=top
