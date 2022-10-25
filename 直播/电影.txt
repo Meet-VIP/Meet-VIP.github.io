@@ -235,6 +235,8 @@ YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 重庆精彩导视,http://zbxclive.cbg.cn:1935/app_2/ls_105.stream/playlist.m3u8
 金马影院HD,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 午夜影院HD,https://pull.kktv8.com/livekktv/99592190/playlist.m3u8
+斗鱼4K,http://epg.112114.xyz/douyu/9249162
+斗鱼-IMAX影厅,http://epg.112114.xyz/douyu/4332
 斗鱼电影16,http://diyp.112114.xyz/douyu/96577
 斗鱼电影HD11,http://diyp.112114.xyz/douyu/8770422
 斗鱼电影HD14,http://diyp.112114.xyz/douyu/36337
