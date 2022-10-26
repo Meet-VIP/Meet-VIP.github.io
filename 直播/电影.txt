@@ -200,7 +200,7 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 点击切换视频0,http://hc.baozi66.top:99/xjj.php?type=mp4
 点击切换视频1,https://api.linhun.vip/api/Littlesistervideo
 点击切换视频2,http://101.33.199.104/api/xjj
-
+斗鱼音乐一FHD,http://epg.112114.xyz/douyu/9588891
 YY音乐991好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 56秀轮播直播,http://zb-iptv.tk/qf56.php?id=top
