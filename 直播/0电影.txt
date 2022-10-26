@@ -1685,7 +1685,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-⚛️上海综合,#genre#
+上海综合,#genre#
 东方影院,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8?zshangd
 新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
