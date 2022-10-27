@@ -233,6 +233,7 @@ kk直播轮播直播,http://zb-iptv.tk/kk.php?id=top
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 翡翠,http://118.31.113.130:82/gudou.php?id=1350_4500
 翡翠,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
