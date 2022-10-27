@@ -711,6 +711,7 @@ XL小驴儿 正在直播,http://mmitv.top/pltv/yy.php?id=1382703702
 
 卫视,#genre#
 湖南卫视,http://120.236.17.34:808/hls/217/index.m3u8
+湖南卫视,http://111.13.42.235/PLTV/88888888/224/3221226509/1.m3u8?blog.ntnas.top
 浙江卫视,http://120.236.17.34:808/hls/218/index.m3u8
 东方卫视,http://120.236.17.34:808/hls/220/index.m3u8
 安徽卫视,http://120.236.17.34:808/hls/221/index.m3u8
