@@ -234,6 +234,7 @@ kk直播轮播直播,http://zb-iptv.tk/kk.php?id=top
 翡翠,http://118.31.113.130:82/gudou.php?id=1350_4500
 翡翠,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
+卫视电影台,http://23.237.10.66:16010
 天映频道,http://51.79.82.208:16024
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 爆款动画电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
