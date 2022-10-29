@@ -41,6 +41,7 @@ IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
 IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
 SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8?blog.ntnas.top
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
