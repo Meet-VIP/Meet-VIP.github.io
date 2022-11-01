@@ -205,7 +205,7 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 
 
 
-在线娱乐电影,#genre#
+在线娱乐秀,#genre#
 点击切换视频0,http://hc.baozi66.top:99/xjj.php?type=mp4
 点击切换视频1,https://api.linhun.vip/api/Littlesistervideo
 点击切换视频2,http://101.33.199.104/api/xjj
@@ -213,19 +213,6 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 斗鱼华语点歌台,http://epg.112114.xyz/douyu/3186217
 YY音乐991好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
-56秀轮播直播,http://zb-iptv.tk/qf56.php?id=top
-花椒轮播直播,http://zb-iptv.tk/hjzb.php?id=top
-迅雷轮播直播,http://zb-iptv.tk/xl.php?id=top
-cc直播轮播直播,http://zb-iptv.tk/cc.php?id=top
-kk直播轮播直播,http://zb-iptv.tk/kk.php?id=top
-歪歪舞蹈轮播直播,http://zb-iptv.tk/tkx.php?id=top&type=dance
-歪歪音乐轮播直播,http://zb-iptv.tk/tkx.php?id=top&type=sing
-歪歪脱口秀轮播直播,http://zb-iptv.tk/tkx.php?id=top&type=pretty
-歪歪颜值轮播直播,http://zb-iptv.tk/tkx.php?id=top&type=pretty
-优酷音乐轮播直播,http://zb-iptv.tk/laifeng-x.php?id=top&type=sing
-优酷舞蹈轮播直播,http://zb-iptv.tk/laifeng-x.php?id=top&type=dance
-优酷脱口秀轮播直播,http://zb-iptv.tk/laifeng-x.php?id=top&type=talk
-优酷颜值轮播直播,http://zb-iptv.tk/laifeng-x.php?id=top&type=pretty
 
 抖音轮播直播点击切换,http://mmitv.top/test/douyin.php?id=top
 花椒轮播直播点击切换,http://mmitv.top/test/hjzb.php?id=top
