@@ -236,6 +236,8 @@ YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 翡翠,http://118.31.113.130:82/gudou.php?id=1350_4500
 翡翠,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
+美亚电影台,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+美亚电影台,http://v3948069e.live.126.net:80/live/2377c02556.flv
 卫视电影台,http://23.237.10.66:16010
 天映频道,http://51.79.82.208:16024
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
@@ -260,6 +262,7 @@ YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 电影,http://txtest-xp2p.p2p.huya.com/src/1199530067986-1199530067986-5300816003561684992-2399060259428-10057-A-0-1.xs
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+KIX,http://210.210.155.37/session/d06b6e24-5ffb-11ed-8aac-802780c6dae4/dr9445/h/h07/index.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 斗鱼-IMAX影厅,http://epg.112114.xyz/douyu/4332
 斗鱼电影16,http://diyp.112114.xyz/douyu/96577
