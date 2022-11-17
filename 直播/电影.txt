@@ -227,9 +227,9 @@ YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
 电影娱乐台,#genre#
 凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-翡翠,http://118.31.113.130:82/gudou.php?id=1350_4500
 翡翠,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠,http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
+星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 美亚电影台,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 美亚电影台,http://v3948069e.live.126.net:80/live/2377c02556.flv
 卫视电影台,http://23.237.10.66:16010
