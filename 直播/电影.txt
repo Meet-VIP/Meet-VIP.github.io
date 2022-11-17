@@ -370,6 +370,43 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 
 
 
+影视频道,#genre#
+广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
+江苏影视,http://183.207.248.13:80/PLTV/4/224/3221225937/index.m3u8
+平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+四川影视,http://182.151.211.171:808/hls/53/index.m3u8
+西安影视,http://stream2.xiancity.cn/xatv4/playlist.m3u8
+南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+海西影视,http://stream.haixitv.cn/1/sd/live.m3u8
+浙江影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+溧水影视,https://live.lsrmw.cn/ysyl/sd/live.m3u8
+吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
+江苏徐州影视,http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
+镇海先锋影视,http://pluslive.zhxww.net/channel2/sd/live.m3u8
+滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+西安文化影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
+定州国学影视,https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
+河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
+新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+浙江影视台,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+未知影视,http://39.135.138.58:18890/TVOD/88888888/224/3221225716/index.m3u8
+高青影视,https://jsylivealone302.iqilu.com/gaoqing/gaoqing_tv02.m3u8
+济阳影视,https://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
+任城影视娱乐,https://jsylivealone302.iqilu.com/rencheng/rencheng_tv02.m3u8
+东至影视,http://223.247.33.124:1935/live/yingshi/HasBahCa.m3u8
+石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
+广东影视,http://183.11.239.32:808/hls/8/index.m3u8
+昆明影视综艺,http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8?token=006f3811c18fb70b91442573728aa10e
+江西四套影视,http://39.134.115.163:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
+云南影视,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
+兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+
+
+
 3D,#genre#
 3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
 3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
