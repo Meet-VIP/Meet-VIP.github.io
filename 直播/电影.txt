@@ -370,7 +370,7 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 
 
 
-电台|频道,#genre#
+电台频道,#genre#
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 CRI 环球资讯广播 FM90.5,http://live.xmcdn.com/live/1040/64.m3u8
