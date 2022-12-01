@@ -6,6 +6,7 @@
 
 {"key":"音乐","name":"音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://meet-vip.github.io/xp/音乐现场.json"},
 {"key":"热舞","name":"女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://meet-vip.github.io/xp/女团热舞.json"},
+{"key":"mtv_pc_直播合集","name":"直播┃直播合集","type":3,"api":"csp_Yj1211"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小苹果源","name":"爬虫┃小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_利奥影视","name":"爬虫┃利奥影视","type":3,"api":"csp_Lib"           ,"searchable":1,"quickSearch":1,"filterable":0},
@@ -34,7 +35,6 @@
 {"key":"mtv_pc_找资源搜","name":"搜索┃找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"mtv_pc_阿里盘搜","name":"搜索┃阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"push_agent"     ,"name":"搜索┃推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
-{"key":"mtv_pc_直播合集","name":"直播┃直播合集","type":3,"api":"csp_Yj1211"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_儿童乐园","name":"哔哩┃儿童乐园","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/儿童乐园.json"},
 {"key":"mtv_pc_学习课堂","name":"哔哩┃学习课堂","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/学习课堂.json"},
 {"key":"mtv_xp_音乐演唱","name":"哔哩┃音乐演唱","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/音乐演唱.json"},
