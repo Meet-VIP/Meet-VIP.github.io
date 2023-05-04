@@ -242,7 +242,6 @@ top金泰亨,http://epg.112114.xyz/douyu/40471
 天映频道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映频道,http://210.210.155.37/session/19c2e28a-ea3c-11ed-9a9e-9a43b9bfd356/dr9445/h/h14/index.m3u8
 天映频道,http://51.79.82.208:16024
-经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
 动漫,http://gxfrg007.8800.org:8282/tsfile/live/1025_1.m3u8
 星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
@@ -312,7 +311,7 @@ TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111
 美亚电影台,http://v3948069e.live.126.net:80/live/2377c02556.flv
 卫视电影台,http://23.237.10.66:16010
 爆款动画电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
-
+经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
 
 游戏直播,#genre#
