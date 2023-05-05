@@ -237,6 +237,7 @@ top金泰亨,http://epg.112114.xyz/douyu/40471
 电影娱乐台,#genre#
 
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+卫视电影台,http://23.237.10.66:16010
 翡翠台,http://r.jdshipin.com/thuYX
 翡翠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-c52e0716-49e3-47f0-9c96-eacbecfad8a0.m3u8
 翡翠台,http://120.84.96.87:808/hls/25/index.m3u8
@@ -310,7 +311,7 @@ TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111
 美亚电影台(粤语),mitv://generationnexxxt.com:19806/ffc2cb77727a4ae19ad234de76c840fd
 美亚电影台,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 美亚电影台,http://v3948069e.live.126.net:80/live/2377c02556.flv
-卫视电影台,http://23.237.10.66:16010
+
 爆款动画电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
