@@ -327,6 +327,34 @@ TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
 
+
+
+
+
+
+
+
+
+DJ舞曲,#genre#
+车载DJ视频,http://gcw.bdcdn.shoujiduoduo.com/201805/0748-641.mp4
+
+相思的债
+
+DJ,https://vd3.bdstatic.com/mda-ki3xxn4n8r9r32v7/hd/mda-ki3xxn4n8r9r32v7.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+
+向往神鹰DJ,https://vd3.bdstatic.com/mda-kinxg6sqtfyscggx/hd/mda-kinxg6sqtfyscggx.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+
+车载DJ视频6,https://vdse.bdstatic.com//7e9d2da860d4ac39c0ea86502360d6fe.mp4
+
+
+
+
+
+
+
+
+
+
 游戏直播,#genre#
 斗鱼校园直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/9798583rvwFlyRNB.flv?wsAuth=a7339cc264be6dfa2f2d281fd8c443e0&token=cpn-androidmpro-0-9798583-31fbc07c569e49ccd744bcce5ab31e084e558fb25126ddc2&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 CSGO,http://tc-tct.douyucdn2.cn/dyliveflv1a/293829rcjYxxsQ3W.flv?wsAuth=c24ee5a99ff4073e7a1e8b11d17286f9&token=cpn-androidmpro-0-293829-eae6d7f57f6a87142082c34dacf38e2277087915f7cfc37d&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
