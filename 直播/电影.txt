@@ -338,9 +338,7 @@ TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111
 DJ舞曲,#genre#
 车载DJ视频,http://gcw.bdcdn.shoujiduoduo.com/201805/0748-641.mp4
 
-相思的债
-
-DJ,https://vd3.bdstatic.com/mda-ki3xxn4n8r9r32v7/hd/mda-ki3xxn4n8r9r32v7.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+相思的债DJ,https://vd3.bdstatic.com/mda-ki3xxn4n8r9r32v7/hd/mda-ki3xxn4n8r9r32v7.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
 
 向往神鹰DJ,https://vd3.bdstatic.com/mda-kinxg6sqtfyscggx/hd/mda-kinxg6sqtfyscggx.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
 
