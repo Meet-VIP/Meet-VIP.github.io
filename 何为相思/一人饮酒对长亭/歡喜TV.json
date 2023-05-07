@@ -1,6 +1,6 @@
 {"spider":"http://cdn.qiaoji8.com/fix2354.jar;md5;6c68e5f9757d1c0e4d5dd966a4adaa01","wallpaper":"https://api.btstu.cn/sjbz/api.php","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tZWV0LXZpcC5naXRodWIuaW8vJUU3JTlCJUI0JUU2JTkyJUFELyVFNyU5NCVCNSVFNSVCRCVCMS50eHQ="]}]}],
 
-"sites":[{"key":"csp_77","name":"久旗VIP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+"sites":[{"key":"csp_77","name":"VIP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"音乐","name":"音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://meet-vip.github.io/xp/音乐现场.json"},
 
