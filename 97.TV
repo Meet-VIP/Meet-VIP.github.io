@@ -2,6 +2,11 @@
 
 "sites":[{"key":"csp_77","name":"爬虫七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_XBPQ_短视频","name":"短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/短视频.json"},
+
+{"key":"csp_XYQBiu_斗鱼","name":"斗鱼直播间","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"},
+
+
 {"key":"音乐","name":"音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://meet-vip.github.io/xp/音乐现场.json"},
 
 {"key":"热舞","name":"女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://meet-vip.github.io/xp/女团热舞.json"},
