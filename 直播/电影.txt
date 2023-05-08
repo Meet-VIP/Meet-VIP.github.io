@@ -201,8 +201,10 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 抖音姐姐热舞,http://epg.112114.xyz/douyu/8759139
 YY音乐991好歌不停,http://106.53.212.251/daili/yy.php?id=54880976
 YY音乐991好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
+YY音乐991好歌不停,http://150.158.81.157/yy.php?id=54880976
 YY舞蹈993热舞不断,http://106.53.212.251/daili/yy.php?id=22490906
 YY舞蹈993热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
+YY舞蹈993热舞不断,http://150.158.81.157/yy.php?id=22490906
 快手轮播直播点击切换,http://mmitv.top/test/ks.php
 阿䜭arrFM,http://epg.112114.xyz/douyu/3809115
 孙紫涵FM,http://epg.112114.xyz/douyu/10088
