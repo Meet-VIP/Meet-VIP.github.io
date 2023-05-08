@@ -220,7 +220,7 @@
 
 //电视直播
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tZWV0LXZpcC5naXRodWIuaW8v55u05pKtL+a1i+ivlS5UVg=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tZWV0LXZpcC5naXRodWIuaW8v55u05pKtL+a1i+ivlS5qc29u="]}]}],
 
 //解码模式
 
