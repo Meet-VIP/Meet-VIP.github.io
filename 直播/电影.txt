@@ -352,6 +352,7 @@ CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 点击切换视频1,http://fuyhi.top/api/video_xjj/api.php?type=video
 测试,https://meet-vip.github.io/123.mp4
 测试,https://vdse.bdstatic.com//7df2102f0861ae3d79117afcf79a884d.mp4
+抖音姐姐热舞,http://epg.112114.xyz/douyu/8759139
 YY音乐991好歌不停,http://106.53.212.251/daili/yy.php?id=54880976
 YY音乐991好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
 YY舞蹈993热舞不断,http://106.53.212.251/daili/yy.php?id=22490906
