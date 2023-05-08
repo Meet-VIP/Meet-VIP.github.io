@@ -256,7 +256,6 @@ top金泰亨,http://epg.112114.xyz/douyu/40471
 翡翠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-c52e0716-49e3-47f0-9c96-eacbecfad8a0.m3u8
 翡翠台,http://120.84.96.87:808/hls/25/index.m3u8
 翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
-
 天映频道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 天映频道,http://flv.mp4cdn.live/gt-key=00569874.php?id=110
 天映频道,http://210.210.155.37/dr9445/h/h14/index.m3u8
@@ -292,23 +291,14 @@ CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 动漫,http://gxfrg007.8800.org:8282/tsfile/live/1025_1.m3u8
-
 星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
-
 星空卫视,http://120.84.96.50:808/hls/79/index.m3u8
-
 中国天气,http://gxfrg007.8800.org:8282/tsfile/live/1060_1.m3u8
-
-广东体育,http://gxfrg007.8800.org:8282/tsfile/live/1063_1.m3u8
-
-广西卫视,http://gxfrg007.8800.org:8282/tsfile/live/1061_1.m3u8
-
+广东体育,http://gxfrg007.8800.org:8282/tsfile/liv/1063_1.m3u8
+西卫视,http://gxfrg007.8800.org:8282/tsfile/live/1061_1.m3u8
 电影影视,http://gxfrg007.8800.org:8282/tsfile/live/1088_1.m3u8
-
 电影影视1,http://gxfrg007.8800.org:8282/tsfile/live/1005_1.m3u8
-
 广东影视,http://gxfrg007.8800.org:8282/tsfile/live/1052_1.m3u8
-
 CCTV娱乐,http://gxfrg007.8800.org:8282/tsfile/live/1092_1.m3u8
 美亚电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=113
 好莱坞电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=100
@@ -336,7 +326,6 @@ TVB J5,http://162.19.247.76:22222/live/tvbj5/index.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-
 电影,http://txtest-xp2p.p2p.huya.com/src/1199530067986-1199530067986-5300816003561684992-2399060259428-10057-A-0-1.xs
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 KIX,http://210.210.155.37/session/d06b6e24-5ffb-11ed-8aac-802780c6dae4/dr9445/h/h07/index.m3u8
@@ -360,7 +349,6 @@ TVBS欢乐台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111
 美亚电影台(粤语),mitv://generationnexxxt.com:19806/ffc2cb77727a4ae19ad234de76c840fd
 美亚电影台,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 美亚电影台,http://v3948069e.live.126.net:80/live/2377c02556.flv
-
 爆款动画电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
