@@ -412,10 +412,10 @@ top金泰亨,http://epg.112114.xyz/douyu/40471
 翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
 
 天映频道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-天映频道,http://210.210.155.35/session/068ecfbc-ea3c-11ed-b368-b11cbfcb8970/dr9445/h/h14/02.m3u8
+天映频道,http://flv.mp4cdn.live/gt-key=00569874.php?id=110
 天映频道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映频道,http://210.210.155.37/session/19c2e28a-ea3c-11ed-9a9e-9a43b9bfd356/dr9445/h/h14/index.m3u8
-天映频道,http://51.79.82.208:16024
+
 
 动漫,http://gxfrg007.8800.org:8282/tsfile/live/1025_1.m3u8
 星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
