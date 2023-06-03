@@ -44,10 +44,6 @@ CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 法国时尚4kUHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
@@ -85,6 +81,12 @@ YY舞蹈993热舞不断,http://106.53.212.251/daili/yy.php?id=22490906
 快手轮播直播点击切换,http://mmitv.top/test/ks.php
 
 阿富汗音乐,http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+
+
 
 阿䜭arrFM,http://epg.112114.xyz/douyu/3809115
 
