@@ -56,7 +56,7 @@ XJJ,#genre#
 
 小姐姐短视频,http://v.nrzj.vip/video.php?_t=
 
-在线娱乐秀,#genre#
+在线娱乐秀_763781166,#genre#
 
 测试,https://meet-vip.github.io/123.mp4
 
@@ -148,7 +148,7 @@ top金泰亨,http://epg.112114.xyz/douyu/40471
 
 动漫推荐官方直播间,http://epg.112114.xyz/douyu/5187099
 
-电影娱乐台,#genre#
+电影娱乐台_763781166,#genre#
 
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
