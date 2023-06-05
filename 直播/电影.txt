@@ -320,10 +320,10 @@ iHOT系列,#genre#
 
 
 港澳台1,#genre#
-天映频道,http://116.11.140.224:8181/tsfile/live/1208_1.m3u8
-天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-天映频道,http://210.210.155.37/dr9445/h/h14/index.m3u8
-天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
+天映频道1,http://116.11.140.224:8181/tsfile/live/1208_1.m3u8
+天映頻道2,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+天映频道3,http://210.210.155.37/dr9445/h/h14/index.m3u8
+天映频道4,http://103.112.191.9:880/LAOSAT1029.m3u8
 TVB星河,http://116.11.140.224:8181/tsfile/live/1206_1.m3u8
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H
