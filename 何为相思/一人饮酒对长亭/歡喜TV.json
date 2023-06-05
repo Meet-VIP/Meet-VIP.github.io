@@ -1,4 +1,4 @@
-{"spider":"http://cdn.qiaoji8.com/fix2354.jar;md5;6c68e5f9757d1c0e4d5dd966a4adaa01","wallpaper":"https://Meet-VIP.github.io/TV壁纸/1.png","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tZWV0LXZpcC5naXRodWIuaW8vJUU3JTlCJUI0JUU2JTkyJUFELyVFNyU5NCVCNSVFNSVCRCVCMS50eHQ="]}]}],
+{"spider":"http://cdn.qiaoji8.com/fix2354.jar;md5;6c68e5f9757d1c0e4d5dd966a4adaa01","wallpaper":"https://api.btstu.cn/sjbz/api.php","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tZWV0LXZpcC5naXRodWIuaW8vJUU3JTlCJUI0JUU2JTkyJUFELyVFNyU5NCVCNSVFNSVCRCVCMS50eHQ="]}]}],
 
 "sites":[{"key":"csp_77","name":"ᥫᩣ","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
