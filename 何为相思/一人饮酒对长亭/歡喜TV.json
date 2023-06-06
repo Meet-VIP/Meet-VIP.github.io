@@ -2,6 +2,8 @@
 
 "sites":[{"key":"csp_77","name":"ᥫᩣ","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_jy","name":"18+直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:98/juyou","jar":"http://52bsj.vip:98/juyouxb"},      
+
 {"key":"音乐","name":"音乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://meet-vip.github.io/xp/音乐现场.json"},
 
 {"key":"热舞","name":"女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://meet-vip.github.io/xp/女团热舞.json"},
@@ -17,6 +19,4 @@
 
 
 
-
-{"key":"csp_jy","name":"18+直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:98/juyou","jar":"http://52bsj.vip:98/juyouxb"},
 
