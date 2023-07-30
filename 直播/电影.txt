@@ -281,6 +281,10 @@ CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
 
 
 港澳台_780,#genre#
+CHC高清电影,http://jh.d7g.cn/tv/zx2023.php?id=350
+CHC动作电影,http://jh.d7g.cn/tv/zx2023.php?id=445
+CHC家庭影院,http://jh.d7g.cn/tv/zx2023.php?id=446
+
 天映经典,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 天映频道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 东森电影,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
@@ -297,7 +301,11 @@ TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 星卫电影台,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-
+龙祥电影,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+美亚电影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+美亚电影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+好莱坞电影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+澳门莲花电影,http://anren.live/HK/BiIOU11uLA.m3u8
 
 
 
